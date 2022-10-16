@@ -4,7 +4,7 @@ Title: Relative entropy
 Version: 0.1.0
 Author: Simon Pineau
 Maintainer: Simon Pineau <simon.pineau@u-bordeaux.fr>
-Description: Relative entropy
+Description: Compute relative entropy for mixte models
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true

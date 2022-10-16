@@ -5,8 +5,8 @@
 REntropy(df)
 }
 \description{
-This function compute relative entropy of a classification proposed by Celeux & Soromenho (1996) as following :
-\deqn{E N(\widehat{\tau})=-\sum_{i=1}^N \sum_{k=1}^K \widehat{\tau}_{i k} \log \hat{\tau}_{i k}}
+This package is design to be use mith lcmm package. The function compute relative entropy of a classification proposed by Celeux & Soromenho (1996) as following :
+$\deqn{E N(\widehat{\tau})=-\sum_{i=1}^N \sum_{k=1}^K \widehat{\tau}_{i k} \log \hat{\tau}_{i k}}$
 }
 
 \arguments{
