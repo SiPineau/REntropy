@@ -1,11 +1,11 @@
 Package: REntropy
 Type: Package
 Title: Relative entropy
-Version: 0.1.0
+Version: 1.0.0
 Author: Simon Pineau
 Maintainer: Simon Pineau <simon.pineau@u-bordeaux.fr>
 Description: Compute relative entropy for mixte models
-License: What license is it under?
+License: AGPL v3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.1
